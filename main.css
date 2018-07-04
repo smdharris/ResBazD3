@@ -13,9 +13,9 @@
   font-family: 'Bungee Shade', cursive;
 }
 
-.cat {
-  margin-left: 20px;
-  width: 300px;
+.label {
+  font-size: 12px;
+  font-family: 'Bungee Shade', cursive;
 }
 
 .svg {
