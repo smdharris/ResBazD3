@@ -1,0 +1,30 @@
+.blue-heading {
+  color: blue;
+  font-size: 120px;
+}
+
+.purple-heading {
+  color: purple;
+  font-family: 'Bungee Shade', cursive;
+  font-size: 60px;
+}
+
+.body {
+  font-family: 'Bungee Shade', cursive;
+}
+
+.cat {
+  margin-left: 20px;
+  width: 300px;
+}
+
+.svg {
+  width: 400px;
+  height: 200px;
+}
+
+.circle {
+  stroke-width: 3px;
+  stroke: green;
+  fill: red;
+}
